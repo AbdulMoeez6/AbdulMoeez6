@@ -33,7 +33,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/moeez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-moeez-70761433a" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moeez22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moeez22" height="30" width="40" /></a>
   <a href="https://www.instagram.com/moeez_abbasii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moeez_abbasii" height="30" width="40" /></a>
   <a href="https://www.facebook.com/abbasimoeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abbasimoeez" height="30" width="40" /></a>
 </p>
