@@ -41,7 +41,7 @@
 ---
 
 ## 🏆 Achievements
-- ⚡ **Quickdraw** & **2x Pull Shark** 
+- ⚡ **Quickdraw** , **2x Pull Shark** 
 - 🚀 Actively building and contributing to repositories.
 
 <p align="center">
