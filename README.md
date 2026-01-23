@@ -44,6 +44,6 @@
 - ⚡ **Quickdraw** , **2x Pull Shark** 
 - 🚀 Actively building and contributing to repositories.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulMoeez6&theme=darkhub&no-bg=true&column=4" alt="AbdulMoeez6's Trophies" />
-</p>
+</p> -->
