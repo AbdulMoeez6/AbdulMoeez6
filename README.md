@@ -25,9 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoeez6&layout=compact&theme=dark&hide_border=true&hide=css,html" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulMoeez6&theme=dark&hide_border=true" alt="AbdulMoeez6's GitHub streak" />
-</p>
+</p> -->
 
 ---
 
