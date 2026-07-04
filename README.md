@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | CS Student @ IIUI | Building things that (mostly) work on the first try</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Technical+Lead+%40+CSS+IIUI;Co-Lead+%40+AWS+Student+Builder+Group+IIUI;Next.js+%7C+React+%7C+Node.js+%7C+Supabase;Currently+shipping+CSS+IIUI's+new+website" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Technical+Lead+%40+CSS+IIUI;Co-Lead+%40+AWS+Student+Builder+Group+IIUI;Next.js+%7C+React+%7C+Node.js+%7C+Supabase" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 - 🎓 BSCS student at **International Islamic University Islamabad** (expected 2027)
 - 🛠️ Freelance **Full-Stack Web Developer** — shipping production sites for real clients
-- 🧑‍💻 **Technical Lead** at Computer Science Society, IIUI — currently rebuilding [cssiiui.vercel.app](https://cssiiui.vercel.app) in Next.js 15
+- 🧑‍💻 **Technical Lead** at Computer Science Society, IIUI 
 - ☁️ **Co-Lead**, AWS Student Builder Group IIUI
 - 🌱 Deepening my knowledge of full-stack architecture and cloud computing
 - ⚡ Fun fact: I diagnose before I fix, and prefer surgical edits over rewrites
